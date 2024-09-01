@@ -5,7 +5,6 @@ We have uploaded our trained model on hugging face, you can access this model th
 1) https://huggingface.co/NitinGCJ/ai-quest-p1 (peft adopter for Sdoh)
 2) https://huggingface.co/NitinGCJ/ai-quest-p2 (peft adopter for Clinical entity)
 
-We have submitted the zip folder which consists required files.
 
 The name of dataset used for training adopter have following names in submitted zip folder:
 1) sdoh adopter: "output_sdoh.csv"
